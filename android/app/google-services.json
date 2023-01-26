@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "749167237522",
+    "project_id": "zari-ecommerce-15419",
+    "storage_bucket": "zari-ecommerce-15419.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749167237522:android:d5de270ed9b060fc68894b",
+        "android_client_info": {
+          "package_name": "com.zari.zariecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749167237522-nh8r31v3khn26deb9ifudamlr27ub5j6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8PikfQWkglR9WyX6BzHerZRV2fxQJgKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749167237522-nh8r31v3khn26deb9ifudamlr27ub5j6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
